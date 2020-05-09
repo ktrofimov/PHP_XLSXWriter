@@ -1,6 +1,6 @@
 PHP XLSX Writer classes
 
 Based on:
-https://github.com/comsave/PHP_XLSXWriter
-https://github.com/mk-j/PHP_XLSXWriter (Plus)
+https://github.com/mk-j/PHP_XLSXWriter (Original)
+https://github.com/comsave/PHP_XLSXWriter (Plus)
 $imageRelationshipXML is modified to enable images in MS Excel
